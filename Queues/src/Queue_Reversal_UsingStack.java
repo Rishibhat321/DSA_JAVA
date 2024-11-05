@@ -2,7 +2,7 @@ import java.util.Stack;
 import java.util.*;
 import java.util.LinkedList;
 
-public class Queue_Reversal_UsingRecursion {
+public class Queue_Reversal_UsingStack {
     public static Queue<Integer> rev(Queue<Integer> q){
 
         // Reversing Queue using Stack
